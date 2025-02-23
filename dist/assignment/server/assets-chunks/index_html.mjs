@@ -1,0 +1,13 @@
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
+  <meta charset="utf-8">
+  <title>Assignment</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles-5INURTSO.css"><style ng-app-id="ng">.container[_ngcontent-ng-c610764401]{text-align:center;max-width:600px;margin:40px auto;padding:20px;background:#f9f9f9;border-radius:10px;box-shadow:0 4px 10px #0000001a}h1[_ngcontent-ng-c610764401]{color:#333;font-size:28px;margin-bottom:20px}.nav-menu[_ngcontent-ng-c610764401]{display:flex;justify-content:center;gap:15px;margin-bottom:20px}.nav-menu[_ngcontent-ng-c610764401]   button[_ngcontent-ng-c610764401]{background:#007bff;color:#fff;border:none;padding:10px 20px;font-size:16px;border-radius:5px;cursor:pointer;transition:all .3s ease-in-out}.nav-menu[_ngcontent-ng-c610764401]   button[_ngcontent-ng-c610764401]:hover{background:#0056b3}.content[_ngcontent-ng-c610764401]{padding:20px;border-radius:10px;background:#fff;box-shadow:0 4px 8px #0000001a;min-height:100px}</style></head>
+<body><!--nghm--><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
+</script><script>window.__jsaction_bootstrap(document.body,"ng",["click"],[]);</script>
+  <app-root ng-version="19.1.7" ngh="1" ng-server-context="ssg"><app-home _nghost-ng-c610764401 ngh="0"><div _ngcontent-ng-c610764401 class="container"><h1 _ngcontent-ng-c610764401>Welcome to Our Angular App</h1><nav _ngcontent-ng-c610764401 class="nav-menu"><button _ngcontent-ng-c610764401 jsaction="click:;">Employee</button><button _ngcontent-ng-c610764401 jsaction="click:;">User</button><button _ngcontent-ng-c610764401 jsaction="click:;">Admin</button></nav><div _ngcontent-ng-c610764401 class="content"><!----><!----><!----></div></div></app-home></app-root>
+<script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-YK4S54TI.js" type="module"></script>
+
+<script id="ng-state" type="application/json">{"__nghData__":[{"t":{"11":"t0","12":"t1","13":"t2"},"c":{"11":[],"12":[],"13":[]}},{}]}</script></body></html>`;
